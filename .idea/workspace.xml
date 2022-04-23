@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyCodeinJAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExcerciseTwo/Bmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Practice101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCode/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCode/Judo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCode/Juice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCode/NepaAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCode/Uber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestCode/Zuba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Uber.java" afterDir="false" />
+    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="new files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,10 +177,23 @@
       <workItem from="1650640812681" duration="3030000" />
       <workItem from="1650655046497" duration="5214000" />
       <workItem from="1650672714879" duration="2855000" />
+      <workItem from="1650716721859" duration="745000" />
     </task>
+    <task id="LOCAL-00001" summary="new files">
+      <created>1650716786207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650716786207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
   </component>
 </project>
