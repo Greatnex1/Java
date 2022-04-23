@@ -62,19 +62,19 @@ public class AccountTest {
     public void withdrawTwiceTest() {
 
         Account viewAccount = new Account();
-        viewAccount.deposit(6_000);
+        viewAccount.deposit(5_000);
         viewAccount.withdraw(6_000);
-        assertEquals(0, viewAccount.getBalance());
+        assertEquals(5_000, viewAccount.getBalance());
     }
 
 
     @Test
     @DisplayName("Withdraw amount should not change balance test to negative")
-    public void withdrawNegativeTest() {
+    public void withdrawNegativeTest(){
 
         Account negativeAccount = new Account();
         negativeAccount.deposit(3_000);
-        negativeAccount.withdraw(3_500);
-        assertEquals(-500, negativeAccount.getBalance());
+        negativeAccount.withdraw(-3_500);
+        assertEquals(3_000, negativeAccount.getBalance());
     }
 }
