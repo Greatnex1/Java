@@ -25,7 +25,6 @@ public class BikeTest{
     public void bikeCanBeAccelerated(){         //when i have a bike
         Bike fastBike = new Bike();                 //i need a gear to power on the bike
         fastBike.bikeAccelerates(true); //
-        fastBike.bikeGear(true);
         assertEquals(true, fastBike.getPositiveAcceleration());
     }
 
