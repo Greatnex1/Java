@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Pass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/BikeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,20 @@
       <recent name="ExcerciseTwo" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DrillTest.utmeTest">
+  <component name="RunManager" selected="Application.Pass">
+    <configuration name="Pass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.Pass" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyPractices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DrillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
@@ -88,22 +101,6 @@
       <option name="PACKAGE_NAME" value="tdd" />
       <option name="MAIN_CLASS_NAME" value="tdd.DrillTest" />
       <option name="METHOD_NAME" value="fTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DrillTest.rTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.DrillTest" />
-      <option name="METHOD_NAME" value="rTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pass" />
         <item itemvalue="JUnit.DrillTest.utmeTest" />
         <item itemvalue="JUnit.DrillTest" />
         <item itemvalue="JUnit.DrillTest.tTest" />
         <item itemvalue="JUnit.DrillTest.fTest" />
-        <item itemvalue="JUnit.DrillTest.rTest" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +187,8 @@
       <workItem from="1650900280785" duration="5627000" />
       <workItem from="1650924290649" duration="1805000" />
       <workItem from="1651095977473" duration="2613000" />
+      <workItem from="1651105046163" duration="419000" />
+      <workItem from="1651159524870" duration="4857000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -212,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650720915932</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new files">
+      <created>1651105090083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651105090083</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
