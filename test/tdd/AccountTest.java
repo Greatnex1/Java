@@ -41,7 +41,7 @@ public class AccountTest {
 
     @Test
     @DisplayName("Deposit negative amount should not change balance test")
-    public void depositNegtiveAmountTest() {
+    public void depositNegativeAmountTest() {
         Account wellAccount = new Account();
         wellAccount.deposit(-1_000);
         assertEquals(-1_000, wellAccount.getBalance());
