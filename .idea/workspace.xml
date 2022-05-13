@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="" />
+    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CHP_5/Ivr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Phone2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +67,7 @@
       <recent name="TestCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Diamond">
+  <component name="RunManager" selected="Application.Phone">
     <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExcerciseTwo.Diamond" />
       <module name="MyCodeinJAVA" />
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_5.ForSum" />
+    <configuration name="InteractiveResponse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.InteractiveResponse" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_5.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExcerciseTwo.PositiveInteger" />
+    <configuration name="InteractiveResponseSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.InteractiveResponseSwitch" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcerciseTwo.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_5.WhileC" />
+    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.Phone" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_5.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_5.WhileSum" />
+    <configuration name="Phone2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.Phone2" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_5.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Phone" />
+        <item itemvalue="Application.Phone2" />
+        <item itemvalue="Application.InteractiveResponseSwitch" />
+        <item itemvalue="Application.InteractiveResponse" />
         <item itemvalue="Application.Diamond" />
-        <item itemvalue="Application.WhileSum" />
-        <item itemvalue="Application.ForSum" />
-        <item itemvalue="Application.WhileC" />
-        <item itemvalue="Application.PositiveInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +194,10 @@
       <workItem from="1651863018253" duration="27972000" />
       <workItem from="1652084124564" duration="2077000" />
       <workItem from="1652170471588" duration="310000" />
+      <workItem from="1652345667696" duration="31173000" />
+      <workItem from="1652402198629" duration="7876000" />
+      <workItem from="1652411125980" duration="29000" />
+      <workItem from="1652430613494" duration="5898000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
