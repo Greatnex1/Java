@@ -5,8 +5,9 @@
       <change afterPath="$PROJECT_DIR$/src/MyPractices/NumberFactor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/Phone2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/CubeSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseTwo/CubeSquares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyPractices/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/BikeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/BikeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/tdd/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/KataTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,13 +70,26 @@
       <recent name="TestCode" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.KataTest.primeNumberTest">
-    <configuration name="InteractiveResponseSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.InteractiveResponseSwitch" />
+  <component name="RunManager" selected="Application.CubeSquares">
+    <configuration name="CubeSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcerciseTwo.CubeSquares" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="ExcerciseTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumPy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_4.NumPy" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CHP_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,31 +110,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.Phone2" />
+    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_4.TabularOutput" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="CHP_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KataTest.numberFactorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tdd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.KataTest" />
-      <option name="METHOD_NAME" value="numberFactorTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.KataTest.primeNumberTest" />
-        <item itemvalue="JUnit.KataTest.numberFactorTest" />
+        <item itemvalue="Application.CubeSquares" />
+        <item itemvalue="Application.NumPy" />
+        <item itemvalue="Application.TabularOutput" />
         <item itemvalue="Application.Phone" />
-        <item itemvalue="Application.Phone2" />
-        <item itemvalue="Application.InteractiveResponseSwitch" />
+        <item itemvalue="JUnit.KataTest.primeNumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +204,8 @@
       <workItem from="1652402198629" duration="7876000" />
       <workItem from="1652411125980" duration="29000" />
       <workItem from="1652430613494" duration="17883000" />
-      <workItem from="1652452717542" duration="4954000" />
+      <workItem from="1652452717542" duration="5751000" />
+      <workItem from="1652486449491" duration="12417000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -285,7 +284,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652438398737</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new files">
+      <created>1652457932080</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652457932080</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new files">
+      <created>1652457989128</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652457989128</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

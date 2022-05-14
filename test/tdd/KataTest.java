@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+import static tdd.Kata.noOfFactorsOf;
 
 public class KataTest {
 
@@ -58,10 +59,10 @@ public class KataTest {
     @Test
 
     public void numberFactorTest(){
-        int factors = Kata.noOfFactorsOf(5);
+        int factors = noOfFactorsOf(5);
         assertEquals(2, factors);
 
-        factors =Kata.noOfFactorsOf(10);
+        factors = noOfFactorsOf(10);
         assertEquals(4, factors);
 
     }
