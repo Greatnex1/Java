@@ -6,12 +6,16 @@ public class Value {
         Scanner InputValues = new Scanner(System.in);
 
         System.out.print("Enter Driving Distance: ");
-        InputValues.nextInt();
+       int drive = InputValues.nextInt();
+
+        System.out.println();
 
         System.out.print("Enter Miles Per Gallon: ");
-        InputValues.nextInt();
-
+       int gallon = InputValues.nextInt();
+        System.out.println();
+        System.out.println( "The total distance covered is " + drive * gallon);
 
     }
+
 
 }

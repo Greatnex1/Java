@@ -2,13 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/src/CHP_2/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_4/GenerateRandoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_4/Myst3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_4/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_5/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/Hypotenuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/MathsPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/MaximumFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/Sum_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayExceptioin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayListOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayListTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/Boo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/BooleanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/HotelArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/HotelRoomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/MaxStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/StoreReceipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/TicTacToeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_8/RectangleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_8/RectangleClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcerciseThree/Heart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcerciseThree/HeartRate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/NumberFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/NumbersTwo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/Phone2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Randoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/TweleveDaysOfChristmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/ClockSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/HeartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/HotelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/RectangleClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/TicTacToeSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/UberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_4/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_4/RandomNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/CubeSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseTwo/CubeSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseThree/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseThree/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseThree/CarApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseThree/CarApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseThree/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseThree/Clocky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/AsterikShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/AsterikShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Bmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/CubeSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/CubeSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Diamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/PositiveInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/PositiveInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Seperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Seperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/SeperatingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/SeperatingDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Sym.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Sym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Uber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Uber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyPractices/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/KataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/KataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestCode/Juice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCode/Juice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestCode/Uber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCode/Uber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Value.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +76,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,28 +96,30 @@
   <component name="ProjectId" id="27yJrdUqbMJZwrcrGLAdEahL9be" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/nouah/IdeaProjects/MyCodeinJAVA/src&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "last_directory_selection": "/home/nouah/IdeaProjects/MyCodeinJAVA/src",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ExcerciseThree" />
@@ -70,13 +131,13 @@
       <recent name="TestCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CubeSquares">
-    <configuration name="CubeSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExcerciseTwo.CubeSquares" />
+  <component name="RunManager" selected="Application.TweleveDaysOfChristmas">
+    <configuration name="ArrayListOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayListOne" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcerciseTwo.*" />
+          <option name="PATTERN" value="CHP_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumPy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_4.NumPy" />
+    <configuration name="ArrayListTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayListTwo" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_4.*" />
+          <option name="PATTERN" value="CHP_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +158,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.Phone" />
+    <configuration name="StudentGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.StudentGrades" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CHP_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweleveDaysOfChristmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.TweleveDaysOfChristmas" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -110,20 +184,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_4.TabularOutput" />
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CHP_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KataTest.primeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentGradeSpec.testStudentName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -132,8 +193,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.KataTest" />
-      <option name="METHOD_NAME" value="primeNumberTest" />
+      <option name="MAIN_CLASS_NAME" value="tdd.StudentGradeSpec" />
+      <option name="METHOD_NAME" value="testStudentName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CubeSquares" />
-        <item itemvalue="Application.NumPy" />
-        <item itemvalue="Application.TabularOutput" />
-        <item itemvalue="Application.Phone" />
-        <item itemvalue="JUnit.KataTest.primeNumberTest" />
+        <item itemvalue="Application.TweleveDaysOfChristmas" />
+        <item itemvalue="JUnit.StudentGradeSpec.testStudentName" />
+        <item itemvalue="Application.StudentGrades" />
+        <item itemvalue="Application.ArrayListTwo" />
+        <item itemvalue="Application.ArrayListOne" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +266,23 @@
       <workItem from="1652411125980" duration="29000" />
       <workItem from="1652430613494" duration="17883000" />
       <workItem from="1652452717542" duration="5751000" />
-      <workItem from="1652486449491" duration="12417000" />
+      <workItem from="1652486449491" duration="15550000" />
+      <workItem from="1652606498023" duration="3263000" />
+      <workItem from="1652691423658" duration="9121000" />
+      <workItem from="1652786815167" duration="6872000" />
+      <workItem from="1652894920516" duration="1732000" />
+      <workItem from="1652947706522" duration="9881000" />
+      <workItem from="1652961567121" duration="13033000" />
+      <workItem from="1653032998578" duration="3734000" />
+      <workItem from="1653093366357" duration="3627000" />
+      <workItem from="1653136928320" duration="46377000" />
+      <workItem from="1653367785891" duration="25914000" />
+      <workItem from="1653553313833" duration="772000" />
+      <workItem from="1653568902344" duration="15836000" />
+      <workItem from="1653644867123" duration="10138000" />
+      <workItem from="1653739386545" duration="41503000" />
+      <workItem from="1653897429939" duration="821000" />
+      <workItem from="1653911748112" duration="10996000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -298,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652457989128</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new files">
+      <created>1652559275417</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652559275417</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
