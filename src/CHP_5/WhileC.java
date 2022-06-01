@@ -5,7 +5,7 @@ public class WhileC {
         int counter = 1;
         while(counter <=10){
             System.out.printf("%d%n", counter);
-            counter++;
+            ++counter;
         }
         System.out.println();
     }

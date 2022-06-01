@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="new files">
       <change afterPath="$PROJECT_DIR$/src/CHP_2/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_4/ClassAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_4/ExaminationResults.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_4/GenerateRandoms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_4/GradeAverage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_4/Myst3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_4/Palindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_5/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/Craps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/Hypotenuse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/MathsPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/MaximumFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/Sum_Digits.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/Array.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayExceptioin.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayListOne.java" afterDir="false" />
@@ -28,28 +28,24 @@
       <change afterPath="$PROJECT_DIR$/src/CHP_7/StoreReceipt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/StudentGrades.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/TicTacToeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_8/RectangleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_8/RectangleClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcerciseThree/Clocky.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ExcerciseThree/Heart.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ExcerciseThree/HeartRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcerciseThree/PetrolPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExcerciseThree/PetrolPurchaseMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/NumberFactor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/NumbersTwo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/Phone2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/Randoms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/TweleveDaysOfChristmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/ClockSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/HeartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/HotelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/RectangleClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/TicTacToeSpec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/UberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/PetrolPurchaseSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_4/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_4/RandomNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_5/WhileC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_5/WhileC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExcerciseThree/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseThree/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExcerciseThree/CarApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseThree/CarApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExcerciseThree/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExcerciseThree/Clocky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExcerciseThree/ClockTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Arithmetic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/AsterikShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/AsterikShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Bmi.java" afterDir="false" />
@@ -61,12 +57,10 @@
       <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Sym.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Sym.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ExcerciseTwo/Uber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_2/Uber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyPractices/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyPractices/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestCode/Juice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCode/Juice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestCode/Uber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCode/Uber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Value.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +111,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -131,13 +125,13 @@
       <recent name="TestCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TweleveDaysOfChristmas">
-    <configuration name="ArrayListOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayListOne" />
+  <component name="RunManager" selected="Application.ExaminationResults">
+    <configuration name="ClassAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_4.ClassAverage" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="CHP_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayListTwo" />
+    <configuration name="ExaminationResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_4.ExaminationResults" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="CHP_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.StudentGrades" />
+    <configuration name="GradeAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_4.GradeAverage" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="CHP_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TweleveDaysOfChristmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.TweleveDaysOfChristmas" />
+    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_4.TabularOutput" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="CHP_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,29 +178,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradeSpec.testStudentName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WhileC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_5.WhileC" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tdd.*" />
+          <option name="PATTERN" value="CHP_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tdd" />
-      <option name="MAIN_CLASS_NAME" value="tdd.StudentGradeSpec" />
-      <option name="METHOD_NAME" value="testStudentName" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TweleveDaysOfChristmas" />
-        <item itemvalue="JUnit.StudentGradeSpec.testStudentName" />
-        <item itemvalue="Application.StudentGrades" />
-        <item itemvalue="Application.ArrayListTwo" />
-        <item itemvalue="Application.ArrayListOne" />
+        <item itemvalue="Application.ExaminationResults" />
+        <item itemvalue="Application.WhileC" />
+        <item itemvalue="Application.GradeAverage" />
+        <item itemvalue="Application.ClassAverage" />
+        <item itemvalue="Application.TabularOutput" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +273,9 @@
       <workItem from="1653644867123" duration="10138000" />
       <workItem from="1653739386545" duration="41503000" />
       <workItem from="1653897429939" duration="821000" />
-      <workItem from="1653911748112" duration="10996000" />
+      <workItem from="1653911748112" duration="11377000" />
+      <workItem from="1653943642138" duration="9485000" />
+      <workItem from="1654001879104" duration="9737000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -382,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652559275417</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new files">
+      <created>1653934207602</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653934207602</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
