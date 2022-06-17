@@ -16,7 +16,7 @@ public class TicTacToeSpec {
         @Test
         public void checkWinnerTest (){
         String go = "XXX";
-       game. setCheckWinner (go);
+       game. setCheckWinner ();
  String call = game.getCheckWinner();
  assertEquals("XXX", call);
 

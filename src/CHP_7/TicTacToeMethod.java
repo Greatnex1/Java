@@ -10,12 +10,12 @@ public class TicTacToeMethod {
 
     static String checkWinner() {
 
-        for (int a = 0; a < 8; a++) {
+        for (int check = 0; check < 8; check++) {
 
             String line = null;
 
 
-            switch (a) {
+            switch (check) {
 
                 case 0 ->
                         line = board[0] + board[1] + board[2];
@@ -57,17 +57,11 @@ public class TicTacToeMethod {
 
             }
 
-            //For X winnerm
-
-
             if (line.equals("XXX")) {
 
                 return "X";
 
             }
-
-
-            // For O winner
 
             else if (line.equals("OOO") ){
 

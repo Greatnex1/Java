@@ -77,4 +77,5 @@ public class AccountTest {
         negativeAccount.withdraw(-3_500);
         assertEquals(3_000, negativeAccount.getBalance());
     }
+
 }

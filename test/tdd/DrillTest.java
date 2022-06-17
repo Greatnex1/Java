@@ -41,7 +41,7 @@ public class DrillTest {
     public void bTest() {
         Drill calculator = new Drill();
         int test = calculator.copy(99, 1300);
-        assertEquals(128700, test);
+        assertEquals(1300, test);
 
     }
 

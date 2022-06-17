@@ -9,6 +9,7 @@ public class Ivr {
                 1 for English
                 2 for Yoruba
                 """;
+        System.out.println(prompt);
 //String userResponse= keyInput.nextLine();
 // char response = userResponse.charAt(0);
         //   switch( userResponse.charAt(0)){

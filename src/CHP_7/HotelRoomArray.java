@@ -9,10 +9,10 @@ public class HotelRoomArray {
         Date current_Date = new Date();
         System.out.println(current_Date);
         System.out.println("Welcome to LordsHotel");
-        System.out.println();
         int sentinel = 1;
         while (sentinel != -1) {
             String prompt = """
+                    
                     Press 1 to book a room
                     Press 2 to checkout
                     Press 3 to view room details
@@ -36,7 +36,7 @@ public class HotelRoomArray {
                     lordsHotel.checkout(room);
                 }
                 case 3 -> {
-                    System.out.println("View room details");
+                    System.out.println("View room details by entering a number");
                     int hall = info.nextInt();
                     String guest = lordsHotel.getGuest(hall);
                     System.out.println("guest is " + guest);
