@@ -10,7 +10,7 @@ public class ClassAverage {
     int total = 0; // initialize sum of grades entered by the user
     int gradeCounter = 1; // initialize # of grade to be entered next
 // processing phase uses counter-controlled iteration
-    while ( gradeCounter <= 10 ) { // loop 10 times
+    while ( gradeCounter <= 3 ) { // loop 10 times
         System.out.print("Enter grade: "); // prompt
         int grade = input.nextInt(); // input next grade
         total +=  grade; // add grade to total
@@ -19,8 +19,16 @@ public class ClassAverage {
 // termination phase
     int average = total / 10; // integer division yields integer result
 // display total and average of grades
-    System.out.printf("%nTotal of all 10 grades is %d%n", total);
-    System.out.printf("Class average is %d%n", average);
+        System.out.printf("""
+                
+                Total of all 10 grades is %d
+                Class average is %d
+                
+                """ ,total, average);
+
+
+//    System.out.printf("%nTotal of all 10 grades is %d%n", total);
+//    System.out.printf("Class average is %d%n", average);
 }
 }
 

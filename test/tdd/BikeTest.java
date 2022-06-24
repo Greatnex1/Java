@@ -53,10 +53,43 @@ public class BikeTest{
         assertEquals(25, noahBike.getSpeed());
     }
 
-// @Test
-    public void bikeCanBeDecelerated(){
-        Bike noahBike = new Bike();
-      //  noahBike.decelerate();
+@Test
+    public void bikeCanBeDecelerated(){Bike noahBike = new Bike();noahBike.bikeOn(true);noahBike.deceleration();noahBike.deceleration();noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+    noahBike.deceleration();
+
+
+
+
+
+
+    //  noahBike.decelerate();
  }
     }
 

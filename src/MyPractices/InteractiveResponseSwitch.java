@@ -54,7 +54,9 @@ public class InteractiveResponseSwitch {
                         case 2 -> System.out.println("2.  Rice");
                     }
                 }
-
+                case 0 ->{
+                    System.out.println("Exit");
+                }
             }
         }
     }

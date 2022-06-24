@@ -14,7 +14,7 @@ public class Divisibility {
     }
     @Test
     public void testNumbersDivisibleByFive(){
-        boolean  result= test.isDivisible(24);
+        boolean  result = test.divide(24);
         assertFalse(result);
     }
 }
