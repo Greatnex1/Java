@@ -1,3 +1,5 @@
+package MyPractices;
+
 import java.util.Scanner;
 
 class Comment {

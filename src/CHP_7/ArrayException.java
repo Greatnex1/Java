@@ -1,6 +1,6 @@
 package CHP_7;
 
-public class ArrayExceptioin {
+public class ArrayException {
     public static void main(String[] args) {
         int[] myArray = {1, 3, 4, 78, 341, 45, -899};
         for (int i = 0; i < myArray.length; i++) {
