@@ -4,27 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="new files">
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/BarChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/Cards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/DeckOfCardsSpecs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/EnhancedFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/GradeBookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/PassingArraysToMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/StudentPoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/AirPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/B_Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Victory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Whots.java" afterDir="false" />
+    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CHP_5/Looping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_5/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/SquareRootOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_6/SumOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/IncrementsOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/IntegerSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/ArrayExceptioin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/ArrayException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/Symbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Symbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_5/Symbol_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_5/Symbol_Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_6/DivisibleBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_6/DivisibleBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Bmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/TweleveDaysOfChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/TweleveDaysOfChristmas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +42,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -107,9 +106,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palin">
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.MultiplicationTable" />
+  <component name="RunManager" selected="Application.SumOfIntegers">
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.Box" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -121,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_4.Palin" />
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_5.NestedLoops" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_4.*" />
+          <option name="PATTERN" value="CHP_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Symbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.Symbol" />
+    <configuration name="SquareRootOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_6.SquareRootOfNumbers" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="CHP_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_4.TabularOutput" />
+    <configuration name="SumOfIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_6.SumOfIntegers" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_4.*" />
+          <option name="PATTERN" value="CHP_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,8 +159,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Victory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.Victory" />
+    <configuration name="TweleveDaysOfChristmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.TweleveDaysOfChristmas" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -175,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palin" />
-        <item itemvalue="Application.TabularOutput" />
-        <item itemvalue="Application.Victory" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.Symbol" />
+        <item itemvalue="Application.SumOfIntegers" />
+        <item itemvalue="Application.SquareRootOfNumbers" />
+        <item itemvalue="Application.Box" />
+        <item itemvalue="Application.TweleveDaysOfChristmas" />
+        <item itemvalue="Application.NestedLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +313,11 @@
       <workItem from="1656420852399" duration="596000" />
       <workItem from="1656611503741" duration="607000" />
       <workItem from="1656642194866" duration="2440000" />
-      <workItem from="1656669399846" duration="2921000" />
+      <workItem from="1656669399846" duration="3540000" />
+      <workItem from="1656690087958" duration="147000" />
+      <workItem from="1656690573593" duration="2624000" />
+      <workItem from="1656697733832" duration="1829000" />
+      <workItem from="1656761336548" duration="31260000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -442,7 +445,28 @@
       <option name="project" value="LOCAL" />
       <updated>1656075647107</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="write">
+      <created>1656689587904</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1656689587904</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ok">
+      <created>1656689687526</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1656689687526</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new file">
+      <created>1656692148224</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1656692148224</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +485,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+    <MESSAGE value="write" />
+    <MESSAGE value="ok" />
+    <MESSAGE value="new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
