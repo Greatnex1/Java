@@ -6,11 +6,11 @@ public class MultiplicationTable {
         int multiply = 1;
 int x = 1;
         while (multiply <= 15) {
-            multiply++;
+            ++multiply;
 
             if (multiply % 2 == 0) {
 
-                System.out.println("2 * " + "" + x + " = " + multiply);
+                System.out.println("2 times " + "" + x + " = " + multiply);
                 x+=1;
             }
         }

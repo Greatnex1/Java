@@ -6,8 +6,8 @@ public class TweleveDaysOfChristmas {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String unit = """
-                         Tweleve Days of Christmas lyrics :
-         
+                         Twelve Days of Christmas lyrics :
+                         
                 Press 1 to view first Stanza
                 Press 2 to view second Stanza
                 Press 3 to view third Stanza
@@ -19,11 +19,11 @@ public class TweleveDaysOfChristmas {
                 Press 9 to view ninth Stanza
                 Press 10 to view tenth Stanza
                 Press 11 to view eleventh Stanza
-                Press 12 to view twelevth Stanza
+                Press 12 to view twelfth Stanza
                 """;
         System.out.println(unit);
 
-        int first = scan.nextInt();
+     int   first = scan.nextInt();
         switch (first) {
             case 1 -> System.out.println("""
                     On the first day of Christmas
@@ -153,6 +153,6 @@ public class TweleveDaysOfChristmas {
                     And a partridge in a pear tree
                     """);
         }
-        }
     }
+}
 

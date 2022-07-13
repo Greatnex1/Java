@@ -1,14 +1,16 @@
+package MyPractices;
 
 import java.util.Scanner;
 
 public class Bmi {
     public static void main(String... ok) {
+//        declaring variables
 
          double weightInPounds ;
          double heightInMetres ;
          double weightInKilogram ;
          double heightInInches ;
-
+//creating a scanner object
          Scanner bodyMassIndex = new Scanner(System.in);
 
         System.out.print("Enter Weight In Pounds: ");
