@@ -4,21 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CHP_5/Looping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_5/NestedLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/SquareRootOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_6/SumOfIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Box.java" afterDir="false" />
+    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="alright">
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayStringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArraySwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/AverageOfSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Bets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/BodyMassIndexApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/DiceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Draw.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/IncrementsOp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/IntegerSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/LeadingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/MortgageCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/MultiTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Projectile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomNumberGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomPick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/ReturnString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/SacredNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/SumOfSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Tally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/ValidInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_4/TabularOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_5/Symbol_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_5/Symbol_Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_6/DivisibleBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_6/DivisibleBy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Bmi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/TweleveDaysOfChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/TweleveDaysOfChristmas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/StringClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,9 +121,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfIntegers">
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.Box" />
+  <component name="RunManager" selected="Application.Tally">
+    <configuration name="ArrayStringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayStringCount" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CHP_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeadingDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.LeadingDigits" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_5.NestedLoops" />
+    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.MultiDimensionalArray" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_5.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareRootOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_6.SquareRootOfNumbers" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.PascalTriangle" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_6.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,21 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_6.SumOfIntegers" />
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CHP_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TweleveDaysOfChristmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.TweleveDaysOfChristmas" />
+    <configuration name="Tally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.Tally" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -174,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfIntegers" />
-        <item itemvalue="Application.SquareRootOfNumbers" />
-        <item itemvalue="Application.Box" />
-        <item itemvalue="Application.TweleveDaysOfChristmas" />
-        <item itemvalue="Application.NestedLoops" />
+        <item itemvalue="Application.Tally" />
+        <item itemvalue="Application.LeadingDigits" />
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.MultiDimensionalArray" />
+        <item itemvalue="Application.ArrayStringCount" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +332,11 @@
       <workItem from="1656690087958" duration="147000" />
       <workItem from="1656690573593" duration="2624000" />
       <workItem from="1656697733832" duration="1829000" />
-      <workItem from="1656761336548" duration="31260000" />
+      <workItem from="1656761336548" duration="32600000" />
+      <workItem from="1657212074226" duration="13331000" />
+      <workItem from="1657397710915" duration="12734000" />
+      <workItem from="1657590210659" duration="9917000" />
+      <workItem from="1657745437275" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -466,7 +485,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656692148224</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="alright">
+      <created>1656910078284</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656910078284</updated>
+    </task>
+    <task id="LOCAL-00023" summary="alright">
+      <created>1656910147549</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656910147549</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +521,8 @@
     <MESSAGE value="write" />
     <MESSAGE value="ok" />
     <MESSAGE value="new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file" />
+    <MESSAGE value="alright" />
+    <option name="LAST_COMMIT_MESSAGE" value="alright" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

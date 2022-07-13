@@ -28,7 +28,7 @@ public class StringClass {
 }
 // == compares by reference.
 
-// .equals compares by content
+// .equals compares by content also used to call a method in an object
 //this. is used to refer to the attribute belonginig to a particular variable and casnnot be used to access static varibles.
 //.equalsIgnoreCase is used in java ti ignore ignore the case of a sentence i.e it compares cases and ignore cas sentences
 //e.g
