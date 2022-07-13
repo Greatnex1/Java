@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78979e28-890d-44dc-86f4-551e76d2cd9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Data/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Data/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Data/ListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -63,21 +63,8 @@
       <recent name="Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListMain">
-    <configuration name="ArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Data.ArrayListMain" />
-      <module name="Structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Data.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SetTest.testSetCannotDuplicateAnItem">
+    <configuration name="SetTest.testSetCanHaveMoreThanOneElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Structures" />
       <extension name="coverage">
         <pattern>
@@ -86,29 +73,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Data" />
-      <option name="MAIN_CLASS_NAME" value="Data.ListTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest.addItem_listIsEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Structures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Data.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Data" />
-      <option name="MAIN_CLASS_NAME" value="Data.ListTest" />
-      <option name="METHOD_NAME" value="addItem_listIsEmptyTest" />
+      <option name="MAIN_CLASS_NAME" value="Data.SetTest" />
+      <option name="METHOD_NAME" value="testSetCanHaveMoreThanOneElement" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.addSixElement_capacityShouldDoubleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SetTest.testSetCanVerifyAnItemDoesNotExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Structures" />
       <extension name="coverage">
         <pattern>
@@ -117,14 +89,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Data" />
-      <option name="MAIN_CLASS_NAME" value="Data.ListTest" />
-      <option name="METHOD_NAME" value="addSixElement_capacityShouldDoubleTest" />
+      <option name="MAIN_CLASS_NAME" value="Data.SetTest" />
+      <option name="METHOD_NAME" value="testSetCanVerifyAnItemDoesNotExists" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest.addX_Y_andZ_removeX_getXShouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SetTest.testSetCanVerifyAnItemExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Structures" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +105,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Data" />
-      <option name="MAIN_CLASS_NAME" value="Data.ListTest" />
-      <option name="METHOD_NAME" value="addX_Y_andZ_removeX_getXShouldReturn" />
+      <option name="MAIN_CLASS_NAME" value="Data.SetTest" />
+      <option name="METHOD_NAME" value="testSetCanVerifyAnItemExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTest.testSetCannotDuplicateAnItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Data" />
+      <option name="MAIN_CLASS_NAME" value="Data.SetTest" />
+      <option name="METHOD_NAME" value="testSetCannotDuplicateAnItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTest.testSetSizeChangeWhenElementIsDeletedAfterAdding" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Data" />
+      <option name="MAIN_CLASS_NAME" value="Data.SetTest" />
+      <option name="METHOD_NAME" value="testSetSizeChangeWhenElementIsDeletedAfterAdding" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListMain" />
-        <item itemvalue="JUnit.ListTest.addItem_listIsEmptyTest" />
-        <item itemvalue="JUnit.ListTest.addX_Y_andZ_removeX_getXShouldReturn" />
-        <item itemvalue="JUnit.ListTest.addSixElement_capacityShouldDoubleTest" />
-        <item itemvalue="JUnit.ListTest" />
+        <item itemvalue="JUnit.SetTest.testSetCannotDuplicateAnItem" />
+        <item itemvalue="JUnit.SetTest.testSetCanVerifyAnItemDoesNotExists" />
+        <item itemvalue="JUnit.SetTest.testSetCanVerifyAnItemExists" />
+        <item itemvalue="JUnit.SetTest.testSetSizeChangeWhenElementIsDeletedAfterAdding" />
+        <item itemvalue="JUnit.SetTest.testSetCanHaveMoreThanOneElement" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +166,11 @@
       <workItem from="1656483994318" duration="1576000" />
       <workItem from="1656611502529" duration="1318000" />
       <workItem from="1656689971061" duration="115000" />
+      <workItem from="1656690236381" duration="335000" />
+      <workItem from="1656697658668" duration="74000" />
+      <workItem from="1656938687459" duration="8154000" />
+      <workItem from="1657212073487" duration="1381000" />
+      <workItem from="1657576643280" duration="3397000" />
     </task>
     <task id="LOCAL-00001" summary="lists in array">
       <created>1656690046637</created>
@@ -170,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656690046637</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lists in array">
+      <created>1656690266211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656690266211</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

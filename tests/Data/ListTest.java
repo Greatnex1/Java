@@ -48,9 +48,10 @@ List list;
     }
     @Test
     void addXandY_retrieveXTest(){
-//        list.add
+        list.add("Oat");
+        list.add("Wheat");
+//        assertTrue(list.capacity());
     }
-
 
     @Test
     public void addSixElement_capacityShouldDoubleTest(){
