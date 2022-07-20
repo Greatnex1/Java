@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class HotelRoomArray {
     public static void main(String[] args) {
-        Hotel lordsHotel = new Hotel(30);
+        HotelRoomArrayMethod lordsHotel = new HotelRoomArrayMethod(30);
         Date current_Date = new Date();
         System.out.println(current_Date);
         System.out.println("Welcome to LordsHotel");
@@ -36,10 +36,7 @@ public class HotelRoomArray {
                     lordsHotel.checkout(room);
                 }
                 case 3 -> {
-                    System.out.println("View room details by entering a number");
-                    int hall = info.nextInt();
-                    String guest = lordsHotel.getGuest(hall);
-                    System.out.println("guest is " + guest);
+                    viewDetails(info,lordsHotel);
                 }
                 case -1 ->{
                     sentinel = -1;
@@ -51,6 +48,13 @@ public class HotelRoomArray {
             }
                 }
             }
-        }
+
+    private static void viewDetails(Scanner info, HotelRoomArrayMethod lordsHotel) {
+        System.out.println("View room details by entering a number");
+        int hall = info.nextInt();
+        String guest = lordsHotel.getGuest(hall);
+        System.out.println("guest is " + guest);
+    }
+}
 
 

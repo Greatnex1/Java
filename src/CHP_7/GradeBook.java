@@ -4,10 +4,13 @@ public class GradeBook {
     private String courseName; // name of course this GradeBook represents
     private int[] grades; // array of student grades
 
+//    private int [] student;
+
     // constructor
     public GradeBook(String courseName, int[] grades) {
         this.courseName = courseName;
         this.grades = grades;
+//        this.student = students;
     }
 
     // method to set the course name
@@ -29,23 +32,43 @@ public class GradeBook {
 // call methods getMinimum and getMaximum
         System.out.printf("Lowest grade is %d%nHighest grade is %d%n%n",
                 getMinimum(), getMaximum());
+        System.out.printf("Student %d got lowest grade\n",getMinimumStudent(1));
+        System.out.printf("Total scores gotten by students is %d%n ", getTotal());
+        System.out.println("********************");
+
 // call outputBarChart to print grade distribution chart
         outputBarChart();
-    }
+         }
 
     // find minimum grade
     public int getMinimum() {
+//     int student = grades[];
         int lowGrade = grades[0]; // assume grades[0] is smallest
 // loop through grades array
         for (int grade : grades) {
 // if grade lower than lowGrade, assign it to lowGrade
             if (grade < lowGrade) {
-                lowGrade = grade; // new lowest grade
+                lowGrade = grade;
+
+                // new lowest grade
             }
         }
         return lowGrade;
     }
-    // find maximum grade
+    public int getMinimumStudent(int index) {
+int student = grades[index];
+        for (int stu: grades
+             ) {
+            if (stu == student) {
+                break;
+            }
+        }
+            return student;
+        }
+
+
+
+        // find maximum grade
     public int getMaximum() {
         int highGrade = grades[0]; // assume grades[0] is largest
 // loop through grades array
@@ -67,6 +90,16 @@ public class GradeBook {
 // return average of grades
         return (double) total / grades.length ;
     }
+    public int getTotal() {
+        int total = 0;
+// sum grades for one student
+        for (int grade : grades) {
+            total += grade;
+        }
+// return a total of grades
+        return (int) total ;
+    }
+
     // output bar chart displaying grade distribution
     public void outputBarChart() {
         System.out.println("Grade distribution:");
@@ -101,12 +134,17 @@ public class GradeBook {
     }
     // output the contents of the grades array
     public void outputGrades() {
-        System.out.printf("The grades are:%n%n");
+        System.out.printf("The grades are : %n%n");
 // output each student's grade
-        for (int student = 0; student < grades.length; student++) {
-            System.out.printf("Student %2d: %3d%n",
+        for (int student = 0; student < grades.length; student++){
+
+            System.out.printf("Student %2d: %3d%n" ,
                     student + 1, grades[student]);
         }
-    }
+        System.out.println("*************************");
+              }
+    public void outputSubjects () {
 
+
+    }
 }
