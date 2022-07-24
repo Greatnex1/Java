@@ -1,17 +1,17 @@
 package tdd;
 
-import CHP_7.Hotel;
+import CHP_7.HotelRoomArrayMethod;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 public class HotelTest {
-    Hotel hotel;
+    HotelRoomArrayMethod hotel;
 
     @BeforeEach
     void setUp() {
-        hotel = new Hotel(10);
+        hotel = new HotelRoomArrayMethod(10);
     }
 
     @Test

@@ -28,7 +28,7 @@ public class Victory {
     }
 
     private static void we() {
-        System.out.printf("""
+        System.out.print("""
                 Conquerors are we
                 """);
     }

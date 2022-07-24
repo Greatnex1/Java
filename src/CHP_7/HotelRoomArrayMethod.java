@@ -1,9 +1,9 @@
 package CHP_7;
 
-public class Hotel {
+public class HotelRoomArrayMethod {
     private String[] rooms;
 
-    public Hotel(int numberOfRooms) {
+    public HotelRoomArrayMethod(int numberOfRooms) {
         this.rooms = new String[numberOfRooms];
     }
 
