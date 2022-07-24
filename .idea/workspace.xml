@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/StockMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/TemperatureReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/TimeSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/TimeSpanMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MyPractices/StockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Date_year_month_day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Date_year_month_day_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/QuizLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/DividendStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Lawyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/LawyerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/LegalSecretaries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Marketer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Secretary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/EmployeePoly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/GradeBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/GradeBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/GradeBookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/GradeBookMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/HotelRoomArrayMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/HotelRoomArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/HotelRoomArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/Victory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Victory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/HotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/HotelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/MortgageCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/MortgageCal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/OverLappingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/OverLappingElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/StockMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/StockMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/TimeSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/TimeSpan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +34,8 @@
       <list>
         <option value="Interface" />
         <option value="Record" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -107,9 +111,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StockMain">
-    <configuration name="StockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.StockMain" />
+  <component name="RunManager" selected="Application.EmployeePoly">
+    <configuration name="Date_year_month_day_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.Date_year_month_day_Main" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +125,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.Temperature" />
+    <configuration name="EmployeePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Polymorphism.EmployeePoly" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LawyerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Inheritance.LawyerMain" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuizLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.QuizLoop" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -134,57 +164,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeSpanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.TimeSpanMain" />
+    <configuration name="StudentPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_8.StudentPoll" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="CHP_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyPractices" />
-      <option name="MAIN_CLASS_NAME" value="MyPractices.StockTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StockTest.testStockProfit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyPractices" />
-      <option name="MAIN_CLASS_NAME" value="MyPractices.StockTest" />
-      <option name="METHOD_NAME" value="testStockProfit" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StockMain" />
-        <item itemvalue="JUnit.StockTest.testStockProfit" />
-        <item itemvalue="JUnit.StockTest" />
-        <item itemvalue="Application.Temperature" />
-        <item itemvalue="Application.TimeSpanMain" />
+        <item itemvalue="Application.EmployeePoly" />
+        <item itemvalue="Application.QuizLoop" />
+        <item itemvalue="Application.LawyerMain" />
+        <item itemvalue="Application.Date_year_month_day_Main" />
+        <item itemvalue="Application.StudentPoll" />
       </list>
     </recent_temporary>
   </component>
@@ -333,6 +332,16 @@
       <workItem from="1658027515856" duration="17147000" />
       <workItem from="1658146930155" duration="10949000" />
       <workItem from="1658229126693" duration="3391000" />
+      <workItem from="1658315277647" duration="1214000" />
+      <workItem from="1658318282262" duration="15000" />
+      <workItem from="1658376260726" duration="4997000" />
+      <workItem from="1658399897646" duration="1149000" />
+      <workItem from="1658454469914" duration="922000" />
+      <workItem from="1658461100279" duration="4409000" />
+      <workItem from="1658482012385" duration="21000" />
+      <workItem from="1658543321613" duration="8675000" />
+      <workItem from="1658641366885" duration="8781000" />
+      <workItem from="1658674788102" duration="1267000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -502,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657748220705</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="work codes">
+      <created>1658315419038</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1658315419038</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +541,8 @@
     <MESSAGE value="ok" />
     <MESSAGE value="new file" />
     <MESSAGE value="alright" />
-    <option name="LAST_COMMIT_MESSAGE" value="alright" />
+    <MESSAGE value="work codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="work codes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
