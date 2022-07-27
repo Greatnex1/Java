@@ -9,14 +9,16 @@ public class StockMain {
 
         Scanner scan = new Scanner(System.in);
         System.out.println("How many stocks do you have");
-        int sentinel = 0;
         int user = scan.nextInt();
-//        while ( user > sentinel) {
+//        int sentinel = 0;
+//        while (sentinel != user) {
 //        }
+
             System.out.print("Enter Stock Symbol:");
             String symbol = scan.next();
             Stock stock = new Stock(symbol);
             double profit = purchasePower(scan, stock);
+
 
             Scanner scan1 = new Scanner(System.in);
             System.out.print("Enter Stock Symbol 2:");
@@ -33,6 +35,7 @@ public class StockMain {
                 System.out.println(symbol + symbol1 + " were both profitable");
             }
         }
+
 
 
 

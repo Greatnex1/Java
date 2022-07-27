@@ -19,6 +19,13 @@ public class Stock {
 
 
     }
+    public Stock ( int priceShare, double priceCost){
+//        this(theSym);
+//        this.symbol = theSym;
+        this.totalShare = priceShare;
+        this.totalCost = priceCost;
+
+    }
 
     public double getProfit(double presentPrice) {
         if (presentPrice < 0.0) {
@@ -29,6 +36,7 @@ public class Stock {
 
     }
 
+
     public void purchase(int shares, double profit) {
         if (shares < 0 || profit < 0.0) {
             throw new IllegalArgumentException();
@@ -37,9 +45,12 @@ public class Stock {
         totalCost = shares * profit;
 //        to make sure that negative numbers are not passed in throw an Exception
 
-
-
         }
+
+    public int getTotalShare() {
+        return totalShare;
+    }
+
 
     @Override
     public String toString() {
