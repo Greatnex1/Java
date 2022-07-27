@@ -8,7 +8,7 @@ public class MortgageCal {
          System.out.println("This program computes monthly mortgage payments.");
          System.out.print("loan amount :");
         double loan = console.nextDouble();
-         System.out.print("number of years: ");
+        System.out.print("number of years: ");
          int years = console.nextInt();
          System.out.print("interest rate : ");
                 double rate = console.nextDouble();
