@@ -36,7 +36,7 @@ public class QuizLoop {
             } else
                 System.out.println("Your answer is wrong\n" + number1 + " - " + number2 + "should be " + (number1 - number2));
             count++;
-            output += "\n" + number1 + number2 + "=" + answer + ((number1 - number2 == answer) ? "correct" : " wrong");
+            output = "\n" + number1 + number2 + "=" + answer + ((number1 - number2 == answer) ? "correct" : " wrong");
         }
           long endTIme = System.currentTimeMillis() ;
           long testTIme = endTIme - startTIme;
