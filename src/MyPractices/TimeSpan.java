@@ -12,7 +12,7 @@ public class TimeSpan {
         public TimeSpan(int hours, int minutes) {
             totalMinutes = 0;
 
-            add(hours, minutes);
+      add(hours, minutes);
         }
 
         // Adds the given interval to this time span.
@@ -20,9 +20,11 @@ public class TimeSpan {
          public void add(int hours, int minutes) {
 
             if (hours < 0 || minutes < 0) {
-
+                System.out.println("Input a valid number");
                 throw new IllegalArgumentException();
+
                  }
+
              totalMinutes += 60 * hours + minutes;
 
         }
