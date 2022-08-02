@@ -18,9 +18,9 @@ public class Set {
         int d[] = {2, 4, 1, 9, 3};
         int sum = 0;
 
-     for (int i = 0; i < d.length; i++) {
-       sum += d[i];
- }
+        for (int j : d) {
+            sum += j;
+        }
      System.out.println("total for variable d is " + sum);
 
 

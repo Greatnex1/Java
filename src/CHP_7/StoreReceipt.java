@@ -36,5 +36,9 @@ public class StoreReceipt {
         System.out.println("Your total is" + finalTotal);
         System.out.println("=======================================");
         System.out.println("====================================");
+
+
     }
+
 }
+
