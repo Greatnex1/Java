@@ -1,4 +1,4 @@
-package OOP.Interface;
+package OOP.Interface.Shapes;
 
 public class Circle implements  Shape{
     private double radius;
