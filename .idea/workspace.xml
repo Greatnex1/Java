@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="working code">
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/Hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/SharonHostel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/SharonHostelMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/StudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/StudentGradeTackMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/Stuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/StuffMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_8/TimeFrame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_8/TimeFrame24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_8/TimeFrame2_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_8/TimeFrameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/GroceryItemOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_14/SpamScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_14/Stringy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_14/ValidateInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/names" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/GroceryList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/GroceryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/InvalidPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/Secretary.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Finance/Assets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Finance/Cash.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Finance/DividendStockOne.java" afterDir="false" />
@@ -29,37 +24,33 @@
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Finance/StockOne.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Institution/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Institution/UnderGraduate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/AdvanceTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/StudentAdvanceTicket.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/Ticket.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/WalkupTicket.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Interface/Color/ColorImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Interface/Color/Colour.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Interface/Color/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/OOP/Interface/Movies/Drama.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CHP_7/SharonHostelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/CHP_14/SpamScannerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_7/HotelRoomArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/HotelRoomArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_7/HotelRoomArrayMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/HotelRoomArrayMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/StoreReceipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/StoreReceipt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/StudentGradeTack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/StudentGradeTack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_8/RectangleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_8/RectangleClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_8/RectangleClassMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_8/RectangleClassMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/ReturnString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/ReturnString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Accountant.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Lawyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/Lawyer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/LawyerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/LawyerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/LegalSecretaries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/LegalSecretaries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Marketer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/Marketer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Secretary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee/Secretary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Interface/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Interface/Shapes/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Secretary.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Interface/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Interface/Shapes/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Interface/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Interface/Shapes/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Interface/ShapesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Interface/Shapes/ShapesMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Interface/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Interface/Shapes/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Polymorphism/EmployeePoly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/EmployeePoly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Polymorphism/EmployeePolyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/EmployeePolyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/HotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/HotelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tdd/RectangleClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/tdd/RectangleClassTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +61,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="JUnit5 Test Class" />
         <option value="JavaScript File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -138,6 +129,7 @@
       <recent name="MyPractices" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="CHP_14" />
       <recent name="CHP_7" />
       <recent name="MyPractices" />
     </key>
@@ -149,13 +141,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CHP_7.StudentGradeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.StudentGradeArray" />
+  <component name="RunManager" selected="JUnit.SpamScannerTest.testTheLIstOfSpamWordsExist">
+    <configuration name="ArrayListInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayList.ArrayListInitialization" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="CHP_7.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CHP_7.VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.VarArgs" />
+    <configuration name="ArrayListSummation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayList.ArrayListSummation" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="CHP_7.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Interface.Color.Main" />
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.ArrayList.Sorting" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.Interface.Color.*" />
+          <option name="PATTERN" value="CHP_7.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StuffMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.StuffMain" />
+    <configuration name="TildeFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.TildeFun" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,26 +194,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeFrame2_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_8.TimeFrame2_Main" />
+    <configuration name="SpamScannerTest.testTheLIstOfSpamWordsExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_8.*" />
+          <option name="PATTERN" value="CHP_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="CHP_14" />
+      <option name="MAIN_CLASS_NAME" value="CHP_14.SpamScannerTest" />
+      <option name="METHOD_NAME" value="testTheLIstOfSpamWordsExist" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CHP_7.StudentGradeArray" />
-        <item itemvalue="Application.StuffMain" />
-        <item itemvalue="Application.CHP_7.VarArgs" />
-        <item itemvalue="Application.TimeFrame2_Main" />
+        <item itemvalue="JUnit.SpamScannerTest.testTheLIstOfSpamWordsExist" />
+        <item itemvalue="Application.Sorting" />
+        <item itemvalue="Application.ArrayListSummation" />
+        <item itemvalue="Application.ArrayListInitialization" />
+        <item itemvalue="Application.TildeFun" />
       </list>
     </recent_temporary>
   </component>
@@ -394,6 +389,19 @@
       <workItem from="1659193423947" duration="11696000" />
       <workItem from="1659237938682" duration="18000" />
       <workItem from="1659237976514" duration="5679000" />
+      <workItem from="1659455733664" duration="123000" />
+      <workItem from="1659476326431" duration="637000" />
+      <workItem from="1659678057152" duration="287000" />
+      <workItem from="1659759395401" duration="6681000" />
+      <workItem from="1660146300452" duration="26000" />
+      <workItem from="1660194199888" duration="2152000" />
+      <workItem from="1660206859424" duration="3347000" />
+      <workItem from="1660224040516" duration="5938000" />
+      <workItem from="1660317864918" duration="5912000" />
+      <workItem from="1660369214100" duration="8409000" />
+      <workItem from="1660470881198" duration="73000" />
+      <workItem from="1660574634828" duration="1508000" />
+      <workItem from="1660638842322" duration="8858000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -605,7 +613,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659021012274</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="working code">
+      <created>1659455822516</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1659455822516</updated>
+    </task>
+    <task id="LOCAL-00032" summary="working code">
+      <created>1660574912701</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1660574912701</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,4 +1,4 @@
-package OOP.Interface;
+package OOP.Interface.Shapes;
 
 public class Rectangle implements  Shape{
     private double width;

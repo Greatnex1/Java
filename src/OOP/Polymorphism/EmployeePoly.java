@@ -1,6 +1,8 @@
 package OOP.Polymorphism;
 
-import OOP.Inheritance.*;
+import OOP.Inheritance.Employee.Accountant;
+import OOP.Inheritance.Employee.Employee;
+import OOP.Inheritance.Employee.Lawyer;
 
 public class EmployeePoly {
 /*   The ability of a client code to be used with different types of object and

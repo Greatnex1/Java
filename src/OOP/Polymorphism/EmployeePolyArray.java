@@ -1,9 +1,9 @@
 package OOP.Polymorphism;
 
-import OOP.Inheritance.Employee;
-import OOP.Inheritance.Lawyer;
-import OOP.Inheritance.LegalSecretaries;
-import OOP.Inheritance.Secretary;
+import OOP.Inheritance.Employee.Employee;
+import OOP.Inheritance.Employee.Lawyer;
+import OOP.Inheritance.Employee.LegalSecretaries;
+import OOP.Inheritance.Employee.Secretary;
 
 public class EmployeePolyArray {
     public static void main(String[] args) {

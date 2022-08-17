@@ -1,4 +1,4 @@
-package OOP.Interface;
+package OOP.Interface.Shapes;
 
 public class ShapesMain {
     public static void main(String[] args) {

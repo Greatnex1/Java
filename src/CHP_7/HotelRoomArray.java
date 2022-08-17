@@ -4,22 +4,23 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class HotelRoomArray {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         HotelRoomArrayMethod lordsHotel = new HotelRoomArrayMethod(30);
         Date current_Date = new Date();
         System.out.println(current_Date);
+        System.out.println(lordsHotel);
         System.out.println("Welcome to LordsHotel");
         int sentinel = 1;
         while (sentinel != -1) {
             String prompt = """
                     
-                    Press 1 to book a room
-                    Press 2 to checkout
-                    Press 3 to view room details
-                    Press -1 to exit
+                    -> Press 1 to book a room
+                    => Press 2 to checkout
+                    => Press 3 to view room details
+                    => Press -1 to exit
                                         
                     """;
-            System.out.println(prompt);
+            System.out.println(prompt);Thread.sleep(5000);
             Scanner info = new Scanner(System.in);
             int response = info.nextInt();
             info.nextLine();
