@@ -31,4 +31,5 @@ public class HotelRoomArrayMethod {
     public void checkout(int roomNumber) {
         rooms [roomNumber -1] = null;
     }
+
 }

@@ -1,4 +1,4 @@
-package OOP.Inheritance;
+package OOP.Inheritance.Employee;
 
 public class LegalSecretaries extends Employee{
     @Override

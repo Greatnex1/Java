@@ -342,4 +342,16 @@ public void classAverageScore(){
     System.out.printf(" The class average score is : %.2f%n", average);
 
 }
+
+    @Override
+    public String toString() {
+        return "StudentGradeTack{" +
+                "students=" + Arrays.toString(students) +
+                ", subjects=" + Arrays.toString(subjects) +
+                ", position=" + Arrays.toString(position) +
+                ", totalStudentScore=" + Arrays.toString(totalStudentScore) +
+                ", scores=" + Arrays.toString(scores) +
+                ", total=" + total +
+                '}';
+    }
 }

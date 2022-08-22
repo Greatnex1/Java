@@ -32,13 +32,13 @@ public class HotelTest {
         String result = hotel.bookRoom(name);
             System.out.println(result);
             String guest = hotel.getGuest(1);
-            System.out.println(guest);
-            assertEquals(name, guest);
+//            System.out.println(guest);
+            assertEquals(name,guest);
             String secondName = "Dami";
             String result1 = hotel.bookRoom(secondName);
             System.out.println(result1);
             String guest2 = hotel.getGuest(2);
-            System.out.println(result1);
+//            System.out.println(result1);
             assertEquals(secondName, guest2);
 
     }

@@ -4,25 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Date_year_month_day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Date_year_month_day_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/QuizLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/DividendStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Lawyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/LawyerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/LegalSecretaries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Marketer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Secretary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/EmployeePoly.java" afterDir="false" />
+    <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="working code">
+      <change afterPath="$PROJECT_DIR$/src/CHP_14/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_14/SpamScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_14/Stringy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_14/ValidateInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CalenderDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/GroceryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/InvalidPasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/PresidentBirthdays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/Ballot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/TallyVotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/vote.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/AdvanceTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/StudentAdvanceTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/WalkupTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Interface/Movies/Drama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/MortgageCal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/MortgageCal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/OverLappingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/OverLappingElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/StockMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/StockMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/TimeSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/TimeSpan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_7/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/ReturnString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/ReturnString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Accountant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Secretary.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +40,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Record" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
@@ -100,8 +109,9 @@
       <recent name="MyPractices" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="MyPractices" />
+      <recent name="CHP_14" />
       <recent name="CHP_7" />
+      <recent name="MyPractices" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="MyPractices" />
@@ -111,9 +121,22 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeePoly">
-    <configuration name="Date_year_month_day_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.Date_year_month_day_Main" />
+  <component name="RunManager" selected="Application.TallyVotes">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_14.BinarySearch" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CHP_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PresidentBirthdays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.PresidentBirthdays" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -125,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Polymorphism.EmployeePoly" />
+    <configuration name="Stringy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_14.Stringy" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.Polymorphism.*" />
+          <option name="PATTERN" value="CHP_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LawyerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOP.Inheritance.LawyerMain" />
+    <configuration name="TallyVotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.RandomChoiceVoting.TallyVotes" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOP.Inheritance.*" />
+          <option name="PATTERN" value="MyPractices.RandomChoiceVoting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,39 +174,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuizLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.QuizLoop" />
+    <configuration name="SpamScannerTest.testTheLIstOfSpamWordsExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="CHP_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentPoll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_8.StudentPoll" />
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CHP_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="CHP_14" />
+      <option name="MAIN_CLASS_NAME" value="CHP_14.SpamScannerTest" />
+      <option name="METHOD_NAME" value="testTheLIstOfSpamWordsExist" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeePoly" />
-        <item itemvalue="Application.QuizLoop" />
-        <item itemvalue="Application.LawyerMain" />
-        <item itemvalue="Application.Date_year_month_day_Main" />
-        <item itemvalue="Application.StudentPoll" />
+        <item itemvalue="Application.TallyVotes" />
+        <item itemvalue="Application.PresidentBirthdays" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Stringy" />
+        <item itemvalue="JUnit.SpamScannerTest.testTheLIstOfSpamWordsExist" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +354,40 @@
       <workItem from="1658482012385" duration="21000" />
       <workItem from="1658543321613" duration="8675000" />
       <workItem from="1658641366885" duration="8781000" />
-      <workItem from="1658674788102" duration="1267000" />
+      <workItem from="1658674788102" duration="2051000" />
+      <workItem from="1658814720745" duration="1286000" />
+      <workItem from="1658887301795" duration="1916000" />
+      <workItem from="1658910497353" duration="1100000" />
+      <workItem from="1658911723304" duration="858000" />
+      <workItem from="1658926214627" duration="191000" />
+      <workItem from="1658974812759" duration="3761000" />
+      <workItem from="1658980066785" duration="3167000" />
+      <workItem from="1659014630433" duration="565000" />
+      <workItem from="1659020935062" duration="443000" />
+      <workItem from="1659062866253" duration="5445000" />
+      <workItem from="1659152412168" duration="13369000" />
+      <workItem from="1659193423947" duration="11696000" />
+      <workItem from="1659237938682" duration="18000" />
+      <workItem from="1659237976514" duration="5679000" />
+      <workItem from="1659455733664" duration="123000" />
+      <workItem from="1659476326431" duration="637000" />
+      <workItem from="1659678057152" duration="287000" />
+      <workItem from="1659759395401" duration="6681000" />
+      <workItem from="1660146300452" duration="26000" />
+      <workItem from="1660194199888" duration="2152000" />
+      <workItem from="1660206859424" duration="3347000" />
+      <workItem from="1660224040516" duration="5938000" />
+      <workItem from="1660317864918" duration="5912000" />
+      <workItem from="1660369214100" duration="8409000" />
+      <workItem from="1660470881198" duration="73000" />
+      <workItem from="1660574634828" duration="1508000" />
+      <workItem from="1660638842322" duration="8858000" />
+      <workItem from="1660750513680" duration="35000" />
+      <workItem from="1660832221166" duration="2725000" />
+      <workItem from="1660902076178" duration="804000" />
+      <workItem from="1660973588747" duration="8838000" />
+      <workItem from="1661087588291" duration="49000" />
+      <workItem from="1661171670038" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -518,7 +564,56 @@
       <option name="project" value="LOCAL" />
       <updated>1658315419038</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="working code">
+      <created>1658688454873</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1658688454873</updated>
+    </task>
+    <task id="LOCAL-00027" summary="working code">
+      <created>1658926339161</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1658926339161</updated>
+    </task>
+    <task id="LOCAL-00028" summary="working code">
+      <created>1659014765774</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1659014765774</updated>
+    </task>
+    <task id="LOCAL-00029" summary="working code">
+      <created>1659015098925</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1659015098925</updated>
+    </task>
+    <task id="LOCAL-00030" summary="working code">
+      <created>1659021012274</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1659021012274</updated>
+    </task>
+    <task id="LOCAL-00031" summary="working code">
+      <created>1659455822516</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1659455822516</updated>
+    </task>
+    <task id="LOCAL-00032" summary="working code">
+      <created>1660574912701</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1660574912701</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +637,8 @@
     <MESSAGE value="new file" />
     <MESSAGE value="alright" />
     <MESSAGE value="work codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="work codes" />
+    <MESSAGE value="working code" />
+    <option name="LAST_COMMIT_MESSAGE" value="working code" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
