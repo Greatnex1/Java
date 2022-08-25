@@ -8,7 +8,7 @@ import java.util.Scanner;
 //this program reads a data file and counts candidates' vote.txt
 public class TallyVotes {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner input = new Scanner(new File("vote.txt.txt"));
+        Scanner input = new Scanner(new File("vote.txt"));
         ArrayList<Ballot> ballots = readFile(input);
         Collections.sort(ballots);
         oneRound(ballots);
