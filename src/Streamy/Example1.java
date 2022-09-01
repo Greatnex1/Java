@@ -10,11 +10,11 @@ public class Example1 {
         InputStreamReader inputStreamReader = new InputStreamReader(System.in);
         BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
         try {
+//            read input from terminal
             String statement = bufferedReader.readLine();
             PrintStream printStream = new PrintStream("test.txt");
             printStream.println(statement.toUpperCase());
-
-//            System.out.println(":" + statement);
+            System.out.println(":" + statement);
         } catch (IOException ex) {
             System.out.println(ex.getMessage());
         }
@@ -22,6 +22,6 @@ public class Example1 {
 }
 
 //        System is a class, Out is  variable name and println is class
-//        PrintStream is a high level stream
+//        PrintStream is a high level stream which prints back to the console
 
 

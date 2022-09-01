@@ -48,7 +48,7 @@ public class Array {
 }
 
 // Calculate the sum of all elements of an array
-// using enchanced for loop
+// using enhanced for loop
 //class Main {
 //        public static void main(String[] args) {
 //
