@@ -2,12 +2,27 @@ package CHP_7;
 
 import MyPractices.Print;
 
+import java.io.File;
+import java.util.Scanner;
+
 public class Recur {
     public  static  void main(String[] args) {
         Print(2);
         System.out.println();
-        factorial(2);
+        factorial(3);
+        System.out.println();
+        reverse(new Scanner("this\nis\nyou\nso\nincomplete"));
     }
+
+    public static void reverse(Scanner input) {
+        if(input.hasNextLine()){
+            String line = input.nextLine();
+            reverse(input);
+            System.out.println(line);
+        }
+    }
+
+
     public static int Print(int n){
         if(n==0){
             return 0;

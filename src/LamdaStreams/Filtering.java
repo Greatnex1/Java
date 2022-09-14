@@ -10,8 +10,6 @@ public class Filtering {
                         .map(x-> x * 3)
                         .sum()
 
-
-
         );
     }
 }

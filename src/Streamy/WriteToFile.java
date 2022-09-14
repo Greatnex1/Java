@@ -12,6 +12,7 @@ public class WriteToFile {
 
         try {
             PrintWriter printWriter = new PrintWriter("testy.txt");
+
             printWriter.println("I am");
 //            printWriter.append('2');
            printWriter.close();

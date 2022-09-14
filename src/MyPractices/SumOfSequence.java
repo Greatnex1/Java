@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class SumOfSequence {
     public static void main(String[] args) {
         double sum = 0.0;
-        System.out.println("This program adds a sequence of");
-                System.out.println("numbers.");
+        System.out.println("This program adds a sequence of numbers");
+
                 System.out.println();
 
         Scanner console = new Scanner(System.in);

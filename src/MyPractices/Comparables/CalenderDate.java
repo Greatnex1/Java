@@ -1,4 +1,4 @@
-package MyPractices;
+package MyPractices.Comparables;
 
 public class CalenderDate implements Comparable<CalenderDate> {
     //    This program  store / reads only months and day in a year

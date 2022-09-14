@@ -2,26 +2,6 @@ package CHP_7;
 
 public class Array {
         public static void main(String[] args) {
-
-//
-//                //Array declarations
-                //  int[] myArray = new int[12];
-                //  int[] kArray = {50, 60, 70, 80};
-                //  String[] mArray = {"how", " hello "};
-                // String[] wArray = new String[5];
-
-
-                // System.out.println("my array length is " + myArray.length);
-                //  System.out.println("my array length is " + kArray.length);
-                // System.out.println("my  String array length is " + mArray.length);
-                //  System.out.println("my string array length is at index 1 is " + mArray[mArray.length - 1]);
-                // how to add items in an array
-                //    System.out.println(" my array at 0 is " + myArray[0]);
-                // myArray[0] = 25;
-                // for (int i = 0; i < kArray.length; i++) {
-                //         System.out.println(kArray.length-);
-
-                // }
                 int[] jArray = {10, 20, 33, -6, -7};
                 int total = 0;
                 int min = 0;
@@ -43,8 +23,26 @@ public class Array {
                 System.out.println("average is " + total / jArray.length);
                 System.out.println("largest is " + max);
                 System.out.println("smallest is " + min);
+                System.out.println();
+                sum(new int[]{1,3,4,5,6,7},3);
 
                       }
+
+        public static int sum(int [] list) {
+                 // System.out.println(list.length);
+                return sum(list,0);
+        }
+        private static int sum(int[] list, int index){
+                if(index == list.length){
+                        return  0;
+                }else{
+                      //  System.out.println(list[index]);
+                        return  list [index] + sum(list,index+1);
+                }
+        }
+
+        //using recursion to calculate the sum of numbers in an array
+
 }
 
 // Calculate the sum of all elements of an array

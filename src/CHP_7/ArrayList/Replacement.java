@@ -16,7 +16,9 @@ public class Replacement {
         System.out.println("These are list of items present in my bag " + items);
         replace(items,"book","novel");
         System.out.println("my latest items are "+ items);
-
+/// or
+        items.set(1,"television");
+        System.out.println("Current item list "+ items);
 
 
     }

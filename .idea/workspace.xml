@@ -5,32 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="working code">
-      <change afterPath="$PROJECT_DIR$/src/CHP_14/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_14/SpamScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_14/Stringy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_14/ValidateInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/names" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CalenderDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/GroceryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/InvalidPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/PasswordValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/PresidentBirthdays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/Ballot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/TallyVotes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/vote.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/AdvanceTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/StudentAdvanceTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Tickets/WalkupTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Interface/Movies/Drama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/LoopingThroughItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/FlyBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/QuackBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/RedHeadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaStreams/Amigos/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaStreams/Amigos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LamdaStreams/Amigos/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/Iterates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/OddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/MapAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Mystery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/NumberCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/SecurityNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/Lottery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/SortedWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/UniqueWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/UsingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/ColleagueBirthdays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/DirectoryCrawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/FileWriting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/MultipleVote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/RunBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Skills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Tennis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Records/EmployeeRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Records/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCodeinJAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyCodeinJAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/ArithmeticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/AsterikShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/Bmi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/CubeSquares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/Diamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/PositiveInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/PositiveIntegerMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/Seperate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/SeperatingDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/Sym.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_2/Uber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_6/ParkingCharges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_6/ParkingCharges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHP_7/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/ReturnString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/ReturnString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Accountant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Inheritance/Secretary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_7/ArrayList/Duplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/Duplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_7/ArrayList/Replacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/Replacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHP_7/Recur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/Recur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LamdaStreams/Filtering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LamdaStreams/Filtering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/CalenderDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/CalenderDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/Draw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/DrawTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/PresidentBirthdays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/PresidentBirthdays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/Ballot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/Ballot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/TallyVotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/TallyVotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/SumOfSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/SumOfSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streamy/ReadingFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streamy/ReadingFromFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streamy/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streamy/WriteToFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vote.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vote.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +92,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="JavaScript File" />
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="GOROOT" url="file:///usr/lib/go-1.13" />
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -56,6 +110,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/CHP_7/Array.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/MyPractices/NumberSummation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/Ballot.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/MyPractices/WordsCount.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Streamy/Example1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Streamy/Example2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Streamy/Example3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Streamy/WriteToFile.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testy.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -81,24 +150,35 @@
     &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;/home/nouah/IdeaProjects/MyCodeinJAVA/src&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/nouah/IdeaProjects/MyCodeinJAVA/.idea/CHAP_2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nouah/IdeaProjects/MyCodeinJAVA/src/Streamy&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="OOP.Inheritance.Sports" />
+      <recent name="LamdaStreams.Amigos" />
+      <recent name="DesignPatterns.CHP1" />
       <recent name="ExcerciseThree" />
       <recent name="tdd" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Streamy" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -121,13 +201,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TallyVotes">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_14.BinarySearch" />
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.Array" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_14.*" />
+          <option name="PATTERN" value="CHP_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,8 +215,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PresidentBirthdays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.PresidentBirthdays" />
+    <configuration name="FileWriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.FileWriting" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -148,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_14.Stringy" />
+    <configuration name="MyPractices.DrawTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.DrawTriangle" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_14.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TallyVotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.RandomChoiceVoting.TallyVotes" />
+    <configuration name="MyPractices.GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.GreatestCommonDivisor" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.RandomChoiceVoting.*" />
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,29 +254,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpamScannerTest.testTheLIstOfSpamWordsExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Recur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CHP_7.Recur" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_14.*" />
+          <option name="PATTERN" value="CHP_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CHP_14" />
-      <option name="MAIN_CLASS_NAME" value="CHP_14.SpamScannerTest" />
-      <option name="METHOD_NAME" value="testTheLIstOfSpamWordsExist" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TallyVotes" />
-        <item itemvalue="Application.PresidentBirthdays" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Stringy" />
-        <item itemvalue="JUnit.SpamScannerTest.testTheLIstOfSpamWordsExist" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.MyPractices.GreatestCommonDivisor" />
+        <item itemvalue="Application.Recur" />
+        <item itemvalue="Application.MyPractices.DrawTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +464,47 @@
       <workItem from="1660973588747" duration="8838000" />
       <workItem from="1661087588291" duration="49000" />
       <workItem from="1661171670038" duration="674000" />
+      <workItem from="1661181155181" duration="604000" />
+      <workItem from="1661258653248" duration="7302000" />
+      <workItem from="1661310554652" duration="3312000" />
+      <workItem from="1661330734370" duration="1116000" />
+      <workItem from="1661357893268" duration="33000" />
+      <workItem from="1661415986198" duration="6448000" />
+      <workItem from="1661424120075" duration="903000" />
+      <workItem from="1661425173119" duration="2024000" />
+      <workItem from="1661501867003" duration="2243000" />
+      <workItem from="1661539693590" duration="34000" />
+      <workItem from="1661642405449" duration="386000" />
+      <workItem from="1661656767817" duration="702000" />
+      <workItem from="1661778347793" duration="524000" />
+      <workItem from="1661780312663" duration="972000" />
+      <workItem from="1661781478552" duration="3075000" />
+      <workItem from="1661831143687" duration="1204000" />
+      <workItem from="1661918796051" duration="761000" />
+      <workItem from="1661936204550" duration="360000" />
+      <workItem from="1661936758208" duration="6926000" />
+      <workItem from="1661958068902" duration="2756000" />
+      <workItem from="1662037335540" duration="338000" />
+      <workItem from="1662038029499" duration="91000" />
+      <workItem from="1662039749108" duration="73000" />
+      <workItem from="1662134594421" duration="430000" />
+      <workItem from="1662135050694" duration="5375000" />
+      <workItem from="1662161072723" duration="260000" />
+      <workItem from="1662311623635" duration="2535000" />
+      <workItem from="1662379849075" duration="1243000" />
+      <workItem from="1662401276220" duration="1621000" />
+      <workItem from="1662470066206" duration="7461000" />
+      <workItem from="1662482037635" duration="4428000" />
+      <workItem from="1662559414652" duration="21000" />
+      <workItem from="1662645594391" duration="4147000" />
+      <workItem from="1662651113374" duration="19000" />
+      <workItem from="1662651493613" duration="1602000" />
+      <workItem from="1662662105511" duration="13888000" />
+      <workItem from="1662824373321" duration="222000" />
+      <workItem from="1662829668771" duration="2735000" />
+      <workItem from="1662886374314" duration="16621000" />
+      <workItem from="1662912138482" duration="5738000" />
+      <workItem from="1663052030844" duration="13870000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -613,7 +730,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660574912701</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="working code">
+      <created>1661181221736</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1661181221736</updated>
+    </task>
+    <task id="LOCAL-00034" summary="working code">
+      <created>1662037448686</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1662037448686</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,6 +770,10 @@
     <MESSAGE value="work codes" />
     <MESSAGE value="working code" />
     <option name="LAST_COMMIT_MESSAGE" value="working code" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
