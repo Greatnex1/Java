@@ -15,7 +15,7 @@ public class StoreReceipt {
     static double chipsTotal = CHIPS_PRICE * numberOfChips;
     static double cokeTotal= (COKE_PRICE + 1.20) *  numberOfCoke;
     static double finalTotal = tshirtTotal + chipsTotal + cokeTotal;
-    {} private static Scanner input;
+     private static Scanner input;
 
     public static void main(String[] args) {
         input =  new Scanner(System.in);

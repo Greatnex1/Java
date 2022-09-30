@@ -1,16 +1,18 @@
 package MyPractices.CollectionFrames.Lists;
 
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+
 //a program that prints a prime numbers of any maximum number given
 public class PrimeNumbers {
     public static void main(String[] args) {
+        Vector<String> min = new Vector<>();
+        min.add("Vibe");
+        min.add("Ayo");
+        System.out.println(min);
         System.out.println(
                 """
-                         This program will tell you all prime numbers up 
-                         to a given maximum         
+                        This program will tell you all prime numbers up 
+                      in   to a given maximum         
                         """);
         System.out.println();
         Scanner scan = new Scanner(System.in);

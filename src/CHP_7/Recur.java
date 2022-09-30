@@ -11,7 +11,10 @@ public class Recur {
         System.out.println();
         factorial(3);
         System.out.println();
-        reverse(new Scanner("this\nis\nyou\nso\nincomplete"));
+        reverse(new Scanner(
+                "this\nis\nyou\nso\nincomplete"));
+        System.out.println();
+        mystery(4);
     }
 
     public static void reverse(Scanner input) {
@@ -41,7 +44,17 @@ public class Recur {
 
         } else
             System.out.println(n);
-            return n * factorial(n - 1);
+        return n * factorial(n - 1);
+    }
+            public static void mystery(int n ){
+                if(n<=1){
+                  //  System.out.println(n);
+                }
+                else{
+                    mystery(n/2);
+                    System.out.println(" " + n);
+        }
 
     }
+
 }
