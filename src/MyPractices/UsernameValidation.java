@@ -3,7 +3,7 @@ package MyPractices;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class EmailValidation {
+public class UsernameValidation {
     public  static boolean isValidUserName(String username){
         String regex = "^[A-Z]\\w{5,29}$";
 //        Where:
