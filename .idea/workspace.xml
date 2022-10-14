@@ -5,84 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="working code">
-      <change afterPath="$PROJECT_DIR$/names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/number.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/LoopingThroughItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/DecoyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/FlyBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/QuackBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/RedHeadDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CHP1/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/BillOnShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CHP_7/MultiDimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chess/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chess/BoardImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LamdaStreams/Amigos/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LamdaStreams/Amigos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LamdaStreams/Amigos/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/Iterates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/OddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Lists/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/MapAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverPattern/WeatherApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/AscendingSortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/AscendingSortList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Combination2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Decode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Decode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/GrayCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/IpAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/PlusOneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/StringMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Subset2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/AdvancedDataStructure/HashEntry.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Mystery.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/NumberCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/SecurityNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/Lottery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/SortedWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/UniqueWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Sets/UsingSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/ColleagueBirthdays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/Words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/DirectoryCrawler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/FileWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/MultipleVote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Basketball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/RunBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Skills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Sports/Tennis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Records/EmployeeRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Records/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Udemy/DSA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyCodeinJAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyCodeinJAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/Arithmetic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/ArithmeticMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/AsterikShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/Bmi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/CubeSquares.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/Diamond.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/PositiveInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/PositiveIntegerMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/Seperate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/SeperatingDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/Sym.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_2/Uber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_6/ParkingCharges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_6/ParkingCharges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/ArrayList/Duplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/Duplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/ArrayList/Replacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/ArrayList/Replacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CHP_7/Recur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHP_7/Recur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LamdaStreams/Filtering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LamdaStreams/Filtering.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/CalenderDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/CalenderDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/Draw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/DrawTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/PresidentBirthdays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/Comparables/PresidentBirthdays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/Ballot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/Ballot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/TallyVotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/RandomChoiceVoting/TallyVotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/SumOfSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/SumOfSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Streamy/ReadingFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streamy/ReadingFromFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Streamy/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streamy/WriteToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vote.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vote.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +65,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
@@ -171,11 +129,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="MyPractices.Comparables" />
       <recent name="OOP.Inheritance.Sports" />
       <recent name="LamdaStreams.Amigos" />
       <recent name="DesignPatterns.CHP1" />
       <recent name="ExcerciseThree" />
-      <recent name="tdd" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Streamy" />
@@ -201,13 +159,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.Array" />
+  <component name="RunManager" selected="Application.Decode2">
+    <configuration name="Decode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Decode" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWriting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.FileWriting" />
+    <configuration name="Decode2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Decode2" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPractices.DrawTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.DrawTriangle" />
+    <configuration name="Leetcode.Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.Duplicates" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPractices.GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.GreatestCommonDivisor" />
+    <configuration name="Leetcode.RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.RomanToInteger" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.*" />
+          <option name="PATTERN" value="Leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CHP_7.Recur" />
+    <configuration name="Payment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.CollectionFrames.Maps.Payment2" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CHP_7.*" />
+          <option name="PATTERN" value="MyPractices.CollectionFrames.Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,10 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.MyPractices.GreatestCommonDivisor" />
-        <item itemvalue="Application.Recur" />
-        <item itemvalue="Application.MyPractices.DrawTriangle" />
+        <item itemvalue="Application.Decode2" />
+        <item itemvalue="Application.Decode" />
+        <item itemvalue="Application.Leetcode.RomanToInteger" />
+        <item itemvalue="Application.Leetcode.Duplicates" />
+        <item itemvalue="Application.Payment2" />
       </list>
     </recent_temporary>
   </component>
@@ -505,6 +464,44 @@
       <workItem from="1662886374314" duration="16621000" />
       <workItem from="1662912138482" duration="5738000" />
       <workItem from="1663052030844" duration="13870000" />
+      <workItem from="1663121476772" duration="12301000" />
+      <workItem from="1663260591802" duration="2444000" />
+      <workItem from="1663306572949" duration="981000" />
+      <workItem from="1663323790849" duration="4471000" />
+      <workItem from="1663328998241" duration="3661000" />
+      <workItem from="1663598653157" duration="506000" />
+      <workItem from="1663680735355" duration="80000" />
+      <workItem from="1663692697904" duration="1922000" />
+      <workItem from="1663758476203" duration="6651000" />
+      <workItem from="1663919170980" duration="2424000" />
+      <workItem from="1664003836793" duration="511000" />
+      <workItem from="1664004479742" duration="1287000" />
+      <workItem from="1664059987029" duration="38000" />
+      <workItem from="1664060512685" duration="601000" />
+      <workItem from="1664180572652" duration="19000" />
+      <workItem from="1664182019457" duration="891000" />
+      <workItem from="1664182928133" duration="36000" />
+      <workItem from="1664186559595" duration="13000" />
+      <workItem from="1664208125413" duration="94000" />
+      <workItem from="1664209710341" duration="2473000" />
+      <workItem from="1664245783608" duration="1699000" />
+      <workItem from="1664340343649" duration="67000" />
+      <workItem from="1664340582152" duration="129000" />
+      <workItem from="1664340731074" duration="930000" />
+      <workItem from="1664371081580" duration="1360000" />
+      <workItem from="1664387539822" duration="2123000" />
+      <workItem from="1664534228436" duration="574000" />
+      <workItem from="1664556333372" duration="8445000" />
+      <workItem from="1665214193064" duration="479000" />
+      <workItem from="1665216293825" duration="725000" />
+      <workItem from="1665410217231" duration="1401000" />
+      <workItem from="1665456059379" duration="4919000" />
+      <workItem from="1665509430837" duration="2208000" />
+      <workItem from="1665567454354" duration="2974000" />
+      <workItem from="1665574365189" duration="6619000" />
+      <workItem from="1665680717734" duration="146000" />
+      <workItem from="1665681737918" duration="3463000" />
+      <workItem from="1665722502080" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -744,7 +741,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662037448686</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="working code">
+      <created>1663121611470</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1663121611470</updated>
+    </task>
+    <task id="LOCAL-00036" summary="working code">
+      <created>1664534696039</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1664534696039</updated>
+    </task>
+    <task id="LOCAL-00037" summary="working code">
+      <created>1665565648273</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1665565648273</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
