@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="841af922-7edd-40aa-8954-63470639e68c" name="Changes" comment="working code">
-      <change afterPath="$PROJECT_DIR$/dog" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/BillOnShopping.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/InitArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CHP_7/MultiDimensionalArrays.java" afterDir="false" />
@@ -22,22 +21,13 @@
       <change afterPath="$PROJECT_DIR$/src/Leetcode/EditDistance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leetcode/GrayCode.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Leetcode/IpAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/LengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/PlusOneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/StringMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Subset2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/ReversedString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/AdvancedDataStructure/HashEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Mystery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/NumberCount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractices/StringReversal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Udemy/DSA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyCodeinJAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyCodeinJAVA.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Leetcode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractices/CollectionFrames/Maps/Payment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,20 +149,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Decode2">
-    <configuration name="Decode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Decode" />
-      <module name="MyCodeinJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EditDistance">
     <configuration name="Decode2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Decode2" />
       <module name="MyCodeinJAVA" />
@@ -186,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode.Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.Duplicates" />
+    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.EditDistance" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode.RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode.RomanToInteger" />
+    <configuration name="ReversedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.ReversedString" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
@@ -212,12 +189,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Payment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractices.CollectionFrames.Maps.Payment2" />
+    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.StringClass" />
       <module name="MyCodeinJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractices.CollectionFrames.Maps.*" />
+          <option name="PATTERN" value="MyPractices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractices.StringReversal" />
+      <module name="MyCodeinJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyPractices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EditDistance" />
+        <item itemvalue="Application.StringReversal" />
+        <item itemvalue="Application.StringClass" />
+        <item itemvalue="Application.ReversedString" />
         <item itemvalue="Application.Decode2" />
-        <item itemvalue="Application.Decode" />
-        <item itemvalue="Application.Leetcode.RomanToInteger" />
-        <item itemvalue="Application.Leetcode.Duplicates" />
-        <item itemvalue="Application.Payment2" />
       </list>
     </recent_temporary>
   </component>
@@ -502,6 +492,9 @@
       <workItem from="1665680717734" duration="146000" />
       <workItem from="1665681737918" duration="3463000" />
       <workItem from="1665722502080" duration="630000" />
+      <workItem from="1665757103585" duration="172000" />
+      <workItem from="1665828486969" duration="165000" />
+      <workItem from="1666174185158" duration="2529000" />
     </task>
     <task id="LOCAL-00001" summary="new files">
       <created>1650716786207</created>
@@ -762,7 +755,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665565648273</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="working code">
+      <created>1665757205055</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1665757205055</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
