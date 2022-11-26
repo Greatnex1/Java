@@ -3,7 +3,11 @@ package Leetcode;
 import java.util.Stack;
 
 public class ValidParenthesis {
-    public class Solution {
+    public static void main(String[] args) {
+        ValidParenthesis validParenthesis =  new ValidParenthesis();
+       var check =  validParenthesis.isValid("()");
+        System.out.println(check);
+    }
         public boolean isValid(String s) {
             Stack<Character> stack = new Stack<Character>();
             for (int i = 0; i < s.length(); i++) {
@@ -29,4 +33,4 @@ public class ValidParenthesis {
             return maxlen;
         }
     }
-}
+
