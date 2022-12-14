@@ -8,8 +8,6 @@ public class StudentPoll {
 // for each answer, select responses element and use that value
 // as frequency index to determine element to increment
         for (int answer = 0; answer < responses.length; answer++) {
-
-
             try {
                 ++frequency[responses[answer]];
             } catch (ArrayIndexOutOfBoundsException e) {
@@ -18,12 +16,10 @@ public class StudentPoll {
                         answer, responses[answer]);
             }
         }
-
             System.out.printf("%s%10s%n", "Rating", "Frequency");
 // output each array element's value
             for (int rating = 1; rating < frequency.length; rating++) {
-                System.out.printf("%4d%7d%n", rating, frequency[rating]);
+                System.out.printf("%5d%9d%n", rating, frequency[rating]);
             }
         }
-
 }
