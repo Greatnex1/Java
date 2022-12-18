@@ -29,14 +29,39 @@ public class BinarySearchImplementation {
 
     }
 
+  void  sort ( int storage[]){
+
+           int l = storage.length;
+
+        for(int i = 0; i<l-1; i++){
+            int minimum_index = i;
+            for(int j = i +1; j < l; j++)
+                if(storage[j]< storage[minimum_index] )
+                    minimum_index = j;
+            int temp = storage[minimum_index];
+                storage[minimum_index] = storage[i];
+                storage[i] = temp;
+            }
+        }
+
+
+    void printArray(int display[]){
+        int l = display.length;
+        for(int i = 0; i < l; i++){
+            System.out.println(display[i] + " ");
+
+        }
+        System.out.println();
+    }
+
 
     public static void main(String[] args) {
         BinarySearchImplementation search = new BinarySearchImplementation();
         int[] number = {23,45,1,0,89,3,8,90,190};
-        System.out.println(Arrays.toString(number));
-        Arrays.sort(number);
+        search.sort(number);
+        search.printArray(number);
         int length = number.length ;
-        int itemToSearch = 45;
+        int itemToSearch = 23;
         int result = search.binarySearchy(number,0,length-1, itemToSearch);
         if (result == -1)
             System.out.println("Element not Present");
